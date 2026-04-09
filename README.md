@@ -19,7 +19,7 @@ A modern **React + Vite** frontend application for managing orders and visualizi
 ## 📁 Setup
 
 ```bash
-git clone <your-repo-url>
+git clone [<your-repo-url>](https://github.com/ShahRaj12/Order-Management-Frontend.git)
 cd frontend
 npm install
 npm run dev
